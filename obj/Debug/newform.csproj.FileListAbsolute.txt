@@ -1,0 +1,63 @@
+C:\Users\84918\source\repos\newform\bin\Debug\newform.exe.config
+C:\Users\84918\source\repos\newform\bin\Debug\newform.exe
+C:\Users\84918\source\repos\newform\bin\Debug\newform.pdb
+C:\Users\84918\source\repos\newform\obj\Debug\newform.csproj.AssemblyReference.cache
+C:\Users\84918\source\repos\newform\obj\Debug\newform.Form1.resources
+C:\Users\84918\source\repos\newform\obj\Debug\newform.Properties.Resources.resources
+C:\Users\84918\source\repos\newform\obj\Debug\newform.csproj.GenerateResource.cache
+C:\Users\84918\source\repos\newform\obj\Debug\newform.csproj.CoreCompileInputs.cache
+C:\Users\84918\source\repos\newform\obj\Debug\newform.exe
+C:\Users\84918\source\repos\newform\obj\Debug\newform.pdb
+C:\Users\84918\source\repos\newform\obj\Debug\newform.Form2.resources
+C:\Users\84918\source\repos\newform\obj\Debug\newform.Form3.resources
+C:\Users\84918\source\repos\newform\obj\Debug\newform.Form4.resources
+C:\Users\84918\source\repos\newform\obj\Debug\newform.Form5.resources
+C:\Users\84918\source\repos\newform\obj\Debug\newform.Form6.resources
+C:\Users\84918\source\repos\newform\bin\Debug\Interop.WMPLib.dll
+C:\Users\84918\source\repos\newform\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\84918\source\repos\newform\obj\Debug\Interop.WMPLib.dll
+C:\Users\84918\source\repos\newform\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\84918\source\repos\newform\obj\Debug\newform.csproj.ResolveComReference.cache
+C:\Users\84918\source\repos\newform\obj\Debug\newform.Form7.resources
+C:\Users\84918\Downloads\newform\bin\Debug\newform.exe.config
+C:\Users\84918\Downloads\newform\bin\Debug\newform.exe
+C:\Users\84918\Downloads\newform\bin\Debug\newform.pdb
+C:\Users\84918\Downloads\newform\bin\Debug\Interop.WMPLib.dll
+C:\Users\84918\Downloads\newform\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\84918\Downloads\newform\obj\Debug\newform.csproj.AssemblyReference.cache
+C:\Users\84918\Downloads\newform\obj\Debug\Interop.WMPLib.dll
+C:\Users\84918\Downloads\newform\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\84918\Downloads\newform\obj\Debug\newform.csproj.ResolveComReference.cache
+C:\Users\84918\Downloads\newform\obj\Debug\newform.Form1.resources
+C:\Users\84918\Downloads\newform\obj\Debug\newform.Form2.resources
+C:\Users\84918\Downloads\newform\obj\Debug\newform.Form3.resources
+C:\Users\84918\Downloads\newform\obj\Debug\newform.Form4.resources
+C:\Users\84918\Downloads\newform\obj\Debug\newform.Form5.resources
+C:\Users\84918\Downloads\newform\obj\Debug\newform.Form6.resources
+C:\Users\84918\Downloads\newform\obj\Debug\newform.Form7.resources
+C:\Users\84918\Downloads\newform\obj\Debug\newform.Properties.Resources.resources
+C:\Users\84918\Downloads\newform\obj\Debug\newform.csproj.GenerateResource.cache
+C:\Users\84918\Downloads\newform\obj\Debug\newform.csproj.CoreCompileInputs.cache
+C:\Users\84918\Downloads\newform\obj\Debug\newform.exe
+C:\Users\84918\Downloads\newform\obj\Debug\newform.pdb
+D:\lap trinh window C#\newform\bin\Debug\newform.exe.config
+D:\lap trinh window C#\newform\bin\Debug\newform.exe
+D:\lap trinh window C#\newform\bin\Debug\newform.pdb
+D:\lap trinh window C#\newform\bin\Debug\Interop.WMPLib.dll
+D:\lap trinh window C#\newform\bin\Debug\AxInterop.WMPLib.dll
+D:\lap trinh window C#\newform\obj\Debug\newform.csproj.AssemblyReference.cache
+D:\lap trinh window C#\newform\obj\Debug\Interop.WMPLib.dll
+D:\lap trinh window C#\newform\obj\Debug\AxInterop.WMPLib.dll
+D:\lap trinh window C#\newform\obj\Debug\newform.csproj.ResolveComReference.cache
+D:\lap trinh window C#\newform\obj\Debug\newform.Form1.resources
+D:\lap trinh window C#\newform\obj\Debug\newform.Form2.resources
+D:\lap trinh window C#\newform\obj\Debug\newform.Form3.resources
+D:\lap trinh window C#\newform\obj\Debug\newform.Form4.resources
+D:\lap trinh window C#\newform\obj\Debug\newform.Form5.resources
+D:\lap trinh window C#\newform\obj\Debug\newform.Form6.resources
+D:\lap trinh window C#\newform\obj\Debug\newform.Form7.resources
+D:\lap trinh window C#\newform\obj\Debug\newform.Properties.Resources.resources
+D:\lap trinh window C#\newform\obj\Debug\newform.csproj.GenerateResource.cache
+D:\lap trinh window C#\newform\obj\Debug\newform.csproj.CoreCompileInputs.cache
+D:\lap trinh window C#\newform\obj\Debug\newform.exe
+D:\lap trinh window C#\newform\obj\Debug\newform.pdb
